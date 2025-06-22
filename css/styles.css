@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f2e9;
+    font-family: 'Georgia', serif;
+  }
+  
+  .navbar {
+    background-color: #bfa76f;
+  }
+  
+  .footer {
+    background-color: #bfa76f;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .card {
+    border: 1px solid #bfa76f;
+  }
+  
+  .carousel-item img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
